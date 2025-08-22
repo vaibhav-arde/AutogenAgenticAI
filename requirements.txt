@@ -1,0 +1,5 @@
+autogen-agentchat
+autogen-ext[ollama]
+autogen-ext[mcp]
+autogen_core
+autogen_ext

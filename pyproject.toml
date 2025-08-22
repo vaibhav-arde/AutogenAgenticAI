@@ -1,0 +1,11 @@
+[project]
+name = "autogenagenticai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "autogen-agentchat>=0.7.4",
+    "autogen-core>=0.7.4",
+    "autogen-ext[mcp,ollama]>=0.7.4",
+]
