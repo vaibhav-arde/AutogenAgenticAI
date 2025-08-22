@@ -3,3 +3,5 @@ autogen-ext[ollama]
 autogen-ext[mcp]
 autogen_core
 autogen_ext
+playwright
+aiofiles
